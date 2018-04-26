@@ -20,6 +20,7 @@ To-Do List/Known Concerns (that will probably never get done):
 - Interval values may spill off and be difficult to read
 - Interval values are rounded
 - Text listing min/sec isn't always accurate (since if the timeline is only seconds, there are no minutes to list)
+- Alternative colour options (for chroma key capabilities)
 
 Files are separated into .exe (single runtime executable for Windows), .apk (compatible with Android 7+ I believe), and the raw project files (stored in the compressed folder due to GitHub's file limitations).
 
