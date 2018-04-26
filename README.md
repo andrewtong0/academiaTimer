@@ -15,4 +15,4 @@ To-Do List/Known Concerns (that will probably never get done):
 - Interval values are rounded
 - Text listing min/sec isn't always accurate (since if the timeline is only seconds, there are no minutes to list)
 
-![Alt Text](https://imgur.com/a/jStXgkG)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jStXgkG"><a href="//imgur.com/jStXgkG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
