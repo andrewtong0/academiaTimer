@@ -5,7 +5,9 @@ Assets and code created from scratch. Coded in GM: Studio with Gamescript, asset
 
 ![Comparison](https://i.imgur.com/6QSZp1B.png)
 
-![Original (Animated)]https://imgur.com/a/jStXgkG
+![Summary of Features](https://i.imgur.com/qRNY3HX.png)
+
+Original (Animated): https://imgur.com/a/jStXgkG
 
 Features:
 - Functions identically to the show
