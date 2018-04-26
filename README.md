@@ -3,9 +3,9 @@ Recreation of the timer from the TV show "My Hero Academia."
 
 Assets and code created from scratch. Coded in GM: Studio with Gamescript, assets created in GIMP with screencapped references from the show.
 
-![Original](https://i.imgur.com/Tn5ExMm.png)
+![Comparison](https://i.imgur.com/6QSZp1B.png)
 
-https://imgur.com/a/jStXgkG
+![Original (Animated)]https://imgur.com/a/jStXgkG
 
 Features:
 - Functions identically to the show
