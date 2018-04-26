@@ -7,7 +7,7 @@ Assets and code created from scratch. Coded in GM: Studio with Gamescript, asset
 
 ![Summary of Features](https://i.imgur.com/qRNY3HX.png)
 
-Original (Animated): https://imgur.com/a/jStXgkG
+Clip from show of original (Animated): https://imgur.com/a/jStXgkG
 
 Features:
 - Functions identically to the show
@@ -20,3 +20,9 @@ To-Do List/Known Concerns (that will probably never get done):
 - Interval values may spill off and be difficult to read
 - Interval values are rounded
 - Text listing min/sec isn't always accurate (since if the timeline is only seconds, there are no minutes to list)
+
+Files are separated into .exe (single runtime executable for Windows), .apk (compatible with Android 7+ I believe), and the raw project files (stored in the folder).
+
+Other Things:
+- Raw Project Time: 3 Days
+- Work Time: ~ 4 hours
