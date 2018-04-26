@@ -21,7 +21,7 @@ To-Do List/Known Concerns (that will probably never get done):
 - Interval values are rounded
 - Text listing min/sec isn't always accurate (since if the timeline is only seconds, there are no minutes to list)
 
-Files are separated into .exe (single runtime executable for Windows), .apk (compatible with Android 7+ I believe), and the raw project files (stored in the folder).
+Files are separated into .exe (single runtime executable for Windows), .apk (compatible with Android 7+ I believe), and the raw project files (stored in the compressed folder due to GitHub's file limitations).
 
 Other Things:
 - Raw Project Time: 3 Days
