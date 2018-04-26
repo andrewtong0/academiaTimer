@@ -26,3 +26,4 @@ Files are separated into .exe (single runtime executable for Windows), .apk (com
 Other Things:
 - Raw Project Time: 3 Days
 - Work Time: ~ 4 hours
+- I know the numbers in the timer don't have the glow effect. I added the glow in GIMP, but any dynamically changing component (like the numbers), unless I individualized each number adding the glow effect to each, was too difficult to do.
