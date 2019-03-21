@@ -1,4 +1,4 @@
-# re_academiaTimer
+# Academia Timer
 Recreation of the timer from the TV show "My Hero Academia."
 
 Assets and code created from scratch. Coded in GM: Studio with Gamescript, assets created in GIMP with screencapped references from the show.
